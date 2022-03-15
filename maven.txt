@@ -1,0 +1,11 @@
+> mvn compile
+
+> mvn test
+
+> mvn package => .jar ou .war
+
+> mvn install
+
+> mvn deploy
+
+> mvn site
